@@ -1,0 +1,23 @@
+code running on the shipped device: serial spin:
+
+ _      _ _        _____         _   _______ ______ 
+| |    (_) |      / ____|       | | |__   __|  ____|
+| |     _| |_   _| |  __  ___   | |    | |  | |__   
+| |    | | | | | | | |_ |/ _ \  | |    | |  |  __|  
+| |____| | | |_| | |__| | (_) | | |____| |  | |____ 
+|______|_|_|\__, |\_____|\___/  |______|_|  |______|
+            __/ |                                  
+            |___/                                   
+
+
+The firmware is AT command interaction, please enter the command to interact with the modem, such as AT, AT+CPIN?, AT+CSQ, for more AT commands, please check the manual!
+For more information on modems please visit https://www.simcom.com/
+
+Modem starting....
+.
+
+GetIMEI...
+.
+Modem started!
+IMEI:869139053724825
+[ERROR]:SIM Card is not insert!!!
