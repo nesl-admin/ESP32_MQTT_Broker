@@ -3,11 +3,11 @@
 #include <config.h>
 
 #ifndef WIFI_SSID
-#define WIFI_SSID "Starlink_2GEXT"
+#define WIFI_SSID "wf"
 #endif
 
 #ifndef WIFI_PASSWORD
-#define WIFI_PASSWORD "tikka2013"
+#define WIFI_PASSWORD "wf_pw"
 #endif
 
 //instantiate the correct server (WiFi or Ethernet)
